@@ -1,2 +1,2 @@
 # Snake_Game
-It's just a snake game
+USE W/A/S/D to move snake
